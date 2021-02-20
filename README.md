@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UpNJYgFAZXzF7rhfVlcZLeQddIUHZx2p/view?usp=sharing)
 
-- ⚡ Fun fact **I love Collecting Coins and I differentiate them based on the year of printing 😉🙂**
+- ⚡ Fun fact **I love Collecting Coins and I differentiate them mainly based on the year of printing 😉🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
