@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sree-gaya3&label=Profile%20views&color=0e75b6&style=flat" alt="sree-gaya3" /> </p>
 
-- 🌱 I’m currently learning **Javascript, MySQL, Flutter, Machine Learning**
+- 🌱 I’m currently learning **Javascript, Flutter, Machine Learning**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UpNJYgFAZXzF7rhfVlcZLeQddIUHZx2p/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://github.com/sree-gaya3/sree-gaya3/blob/main/assets/My_Resume.pdf)
 
 - ⚡ Fun fact **I love Collecting Coins and I differentiate them mainly based on the year of printing 😉🙂**
 
